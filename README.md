@@ -22,6 +22,7 @@
 ## ----- To-do list -----
 ### 1) Data preprocessing
 - Run 'data_custom.ipynb' to preprocess the train and test datasets
+- The preprocessed datasets should be saved in the same path with 'train_model.ipynb' and 'test_model.ipynb'
 ### 2) Complete the 'test_model.ipynb' to calculate Gibbs E in different temperature
 - You can predict Gibbs E and enthalpy at 298K via 'test_model.ipynb'
 - Complete the final code to predict Gibbs E at different temperature
