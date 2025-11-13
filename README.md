@@ -13,9 +13,9 @@
 ## ----- To-do list -----
 ### 1) download datasets
 - Train dataset: BinarySolvGH-QM.csv
-  ref: https://zenodo.org/records/14238055
+- - ref: https://zenodo.org/records/14238055
 - Final test dataset: Data and predictions of solvation free energies in binary solvents (BinarySolv-Exp).csv
-- ref: https://doi.org/10.1016/j.cej.2025.162232
+- - ref: https://doi.org/10.1016/j.cej.2025.162232
 ### 2) create 'data' folder
 - After creating 'data' folder, move the all datasets to this path
 ### 3) data preprocessing
