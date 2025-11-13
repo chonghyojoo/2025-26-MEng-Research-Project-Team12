@@ -7,6 +7,7 @@
 - anaconda prompt -> 'conda env create -f binary_test.yml'
 
 ### 3) files you can run
+- 'preprocessing/data_custom.ipynb': data preprocessing
 - 'train_model.ipynb': model training
 - 'test_model.ipynb': predict Gibbs E and enthalpy at 298K -> calculate Gibbs E at different T
 
