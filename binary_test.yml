@@ -1,4 +1,4 @@
-name: cejtuto
+name: binary_test
 channels:
   - conda-forge
   - defaults
@@ -257,3 +257,4 @@ dependencies:
       - tqdm==4.67.1
       - tzdata==2025.2
 prefix: C:\Users\joojo\AppData\Local\anaconda3\envs\cejtuto
+
